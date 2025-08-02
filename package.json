@@ -1,0 +1,20 @@
+{
+  "name": "-n1uta-discord-bots",
+  "version": "1.0.0",
+  "description": "Developed and Designed by -n1uta.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "bot", "ticket"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
